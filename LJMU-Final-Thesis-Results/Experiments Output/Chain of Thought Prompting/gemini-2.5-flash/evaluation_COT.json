@@ -1,0 +1,22 @@
+{
+  "Summarisation": {
+    "ROUGE-L F1": 0.3613986641359839,
+    "BLEU": 0.10818594219672129,
+    "BERTScore F1": 0.8990533351898193
+  },
+  "Topic Classification": {
+    "Subset Accuracy": 0.0,
+    "Jaccard Index": 0.22499999999999998,
+    "Micro F1": 0.31666666666666665
+  },
+  "Q&A Generation": {
+    "BLEU": 0.02280551042480648,
+    "Diversity": 0.6902444638025503,
+    "Answerability": 0.6483333333333334
+  },
+  "Key Concept Extraction": {
+    "Precision@10": 0.5033333333333333,
+    "Recall@10": 0.20133333333333336,
+    "F1@10": 0.2876190476190476
+  }
+}

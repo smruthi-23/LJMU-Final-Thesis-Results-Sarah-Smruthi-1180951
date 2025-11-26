@@ -1,0 +1,24 @@
+{
+  "Summarisation": {
+    "ROUGE-L F1": 0.3509191115576898,
+    "BLEU": 0.09874596038728577,
+    "BERTScore F1": 0.8965487897396087
+  },
+  "Topic Classification": {
+    "Overlap Accuracy": 0.9333333333333333,
+    "Jaccard Index": 0.38769841269841265,
+    "Micro F1": 0.5203703703703705,
+    "Macro F1": 0.48283730158730154,
+    "Weighted F1": 0.5006117724867725
+  },
+  "Q&A Generation": {
+    "BLEU": 0.026483349169559037,
+    "Diversity": 0.7350673009280951,
+    "Answerability": 0.78
+  },
+  "Key Concept Extraction": {
+    "Precision@10": 0.5466666666666666,
+    "Recall@10": 0.21866666666666673,
+    "F1@10": 0.31238095238095237
+  }
+}
