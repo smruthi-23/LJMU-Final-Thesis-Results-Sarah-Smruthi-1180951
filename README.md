@@ -45,15 +45,7 @@ Precision@10, Recall@10, and F1@10 for key concept extraction
 **Purpose:**
 The Json files form the quantitative basis for comparing model and prompt performance across tasks.
 
-**3. Visual Graphs (Images Folder)**
-
-**Content:**
-Each experiment includes graphs and charts comparing performance across models, tasks, and prompting techniques.
-
-**Purpose:**
-The visualisations simplify interpretation of trends and highlight key comparative insights.
-
-**4. Final Thesis Code (Code Folder)**
+**3. Final Thesis Code (Code Folder)**
 
 **Content:**
 All scripts used for dataset processing, chunking transcripts, prompt construction, LLM API integration, output generation, logging, and metric evaluation.
@@ -87,9 +79,7 @@ Experiments were executed through Google Generative AI and Groq inference platfo
 
 **2. Explore the Metrics:** Use the Excel sheets to study the detailed performance metrics for each experiment.
 
-**3. View Visualisations:** Refer to the images folder to understand comparative model behaviour through graphs and charts.
-
-**4. Run or Modify Code:** Open the code folder to examine or execute the scripts used for the experiments.
+**3. Run or Modify Code:** Open the code folder to examine or execute the scripts used for the experiments.
 
 ### **Disclaimer**
 
