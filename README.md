@@ -80,12 +80,3 @@ Experiments were executed through Google Generative AI and Groq inference platfo
 **2. Explore the Metrics:** Use the Excel sheets to study the detailed performance metrics for each experiment.
 
 **3. Run or Modify Code:** Open the code folder to examine or execute the scripts used for the experiments.
-
-### **Disclaimer**
-
-This repository is intended solely for academic and research purposes. The findings are based on the specific dataset, prompting strategies, and LLM versions used in the study. Results may vary depending on model updates, API changes, or input modifications. Users are advised to apply these methods with appropriate consideration.
-
-### **Copyright**
-
-© 2025 Sarah Smruthi. All rights reserved.
-Reproduction, distribution, or use of any material in this repository without permission is prohibited.
